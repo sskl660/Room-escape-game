@@ -3,4 +3,4 @@
 + with : 김상현, 김태현
 
 # Introduction
-+ 오픈 소스, Unity를 활용한 방 탈출 게임 작성
++ 오픈 소스, Unity를 활용한 방 탈출 게임 
